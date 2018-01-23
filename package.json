@@ -61,11 +61,6 @@
     "sinon-chai": "^2.14.0"
   },
   "nyc": {
-    "check-coverage": true,
-    "lines": 45,
-    "statements": 25,
-    "functions": 30,
-    "branches": 15,
     "include": [
       "**/*.js"
     ],
